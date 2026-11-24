@@ -1,0 +1,5 @@
+kurigram==2.2.27
+py-tgcalls==3.0.1
+yt-dlp>=2025.1.1
+aiosqlite>=0.20
+python-dotenv>=1.0

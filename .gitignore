@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+downloads/
+data/
+sessions/
+*.session
+*.session-journal
+.env
+cookies.txt
+bot.log
+bot.pid
+login_agent.log
+*.bundle
